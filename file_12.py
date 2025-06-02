@@ -12,7 +12,7 @@ print(a)
 
 
 def func_2(n: int) -> int:
-    return n + n
+    return n - n
 
 
 print(func_2(a))
