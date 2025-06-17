@@ -15,4 +15,4 @@ def func_2(n: int) -> int:
     return n - n
 
 
-print(func_2(a))
+print(func_2(b))
