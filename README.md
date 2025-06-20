@@ -1,2 +1,2 @@
 # net_connect
-checker for avelable of testnet
+checker for avelable of testnet.
